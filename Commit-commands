@@ -1,0 +1,16 @@
+Hi, I am Anand Mohan. I am going to put here some of the mostb usefull git commands here. 
+
+To create new branch 
+
+## git branch -M develop
+
+To check the current branch
+
+## git branch 
+
+
+
+## git commit -m "I have added New Content in README.md file"
+
+
+#

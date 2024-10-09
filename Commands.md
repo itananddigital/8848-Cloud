@@ -30,9 +30,3 @@ git commit -m "Added new content to README.md"
 git status
 ```
 
----
-
-Feel free to use these commands as a quick reference while working with Git.
-```
-
-This version is formatted for a GitHub markdown file, making it clean and easy to follow. Let me know if you'd like any changes!

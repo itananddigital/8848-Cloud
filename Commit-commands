@@ -1,24 +1,38 @@
-Hi, I am Anand Mohan. I am going to put here some of the mostb usefull git commands here. 
+Here’s a refined version for your GitHub markdown file:
 
-To create new branch 
+```md
+# Git Commands Cheat Sheet
 
-## git branch -M develop
+Hi, I am Anand Mohan. Below are some of the most useful Git commands that I commonly use.
 
-To check the current branch
+### Create a new branch and switch to it:
+```bash
+git branch -M develop
+```
 
-## git branch 
+### Check the current branch:
+```bash
+git branch
+```
 
-Add new changes 
+### Stage all changes:
+```bash
+git add .
+```
 
-## git add .
+### Commit the changes with a message:
+```bash
+git commit -m "Added new content to README.md"
+```
 
-Create new commit 
+### Check the status of your code:
+```bash
+git status
+```
 
-## git commit -m "I have added New Content in README.md file"
+---
 
-Check Status of code 
+Feel free to use these commands as a quick reference while working with Git.
+```
 
-## git status
-
-
-
+This version is formatted for a GitHub markdown file, making it clean and easy to follow. Let me know if you'd like any changes!

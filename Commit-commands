@@ -8,9 +8,17 @@ To check the current branch
 
 ## git branch 
 
+Add new changes 
 
+## git add .
+
+Create new commit 
 
 ## git commit -m "I have added New Content in README.md file"
 
+Check Status of code 
 
-#
+## git status
+
+
+

@@ -20,13 +20,12 @@ To get started with 8848 Cloud, follow these steps:
 
 For more detailed documentation, visit our [Wiki](https://github.com/itananddigital/8848-cloud).
 
-
-##License
+## License
 
 <br>
 
-<p align="center">
-Open-Source Freelance Platform is Licensed under the <a href="./LICENSE">MIT License</a>. Please go through the License atleast once before contributing. </p>
+
+Open-Source Freelance Platform is Licensed under the <a href="./LICENSE">MIT License</a>. Please go through the License atleast once before contributing.
 
 ## Contact
 

@@ -20,9 +20,9 @@ To get started with 8848 Cloud, follow these steps:
 
 For more detailed documentation, visit our [Wiki](https://github.com/itananddigital/8848-cloud).
 
-<h1 align="center">
-License
-</h1>
+
+##License
+
 <br>
 
 <p align="center">

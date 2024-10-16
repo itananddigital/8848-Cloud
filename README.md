@@ -18,7 +18,9 @@ To get started with 8848 Cloud, follow these steps:
 2. **Deploy**: Use the platform to deploy your applications in just a few clicks.
 3. **Manage**: Access the dashboard to monitor and manage your apps, ensuring they run smoothly.
 
-For more detailed documentation, visit our [Wiki](https://github.com/itananddigital/8848-cloud).
+For more detailed Commands documentation, visit our [Wiki]([https://github.com/itananddigital/8848-cloud/](https://github.com/itananddigital/8848-Cloud/blob/main/Commands.md)).
+
+
 
 ## License
 
